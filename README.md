@@ -1,7 +1,8 @@
 # Turtle_Race
 Two Player Turtle Race Game
 
-I got the idea for this game from a moderate-advanced python blog teaching coders like me.
+I got the idea for this game from a moderate-to-advanced python blog teaching beginning coders like myself.
+
 
 This game is played by each of two players pressing 'Enter' which rolls a die.
 The number of steps is the die roll times twenty.
